@@ -16,7 +16,7 @@
 - ‍💻 Concentration (Major) : Computer Science
 - 💼 Secondary Field (Minor) : Economics
 - ✉️ chinilin@college.harvard.edu
-- 🖥️ Intership Experience: [HSA][https://www.hsa.net/], [Appier Inc][https://www.appier.com/]
+- 🖥️ Intership Experience: [HSA](https://www.hsa.net/), [Appier Inc](https://www.appier.com/)
 - 🗣️ English, Mandarin, Taiwanese, Spanish
 - 🏸 Badminton, Swimming, Running, Workout
 - 📈 Venture Capital, Entrepreneurship, Investing
