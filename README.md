@@ -38,7 +38,6 @@
 
 <br />
 
-### Read Blog Post
-### Read Blog Post
+### Blog Post
 [Harvard Open Data Project - Crimson Mentions Analysis](https://www.hodp.org/project/who-gets-mentioned-in-the-crimson/)
 <br />
