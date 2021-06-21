@@ -16,7 +16,7 @@
 - ‍💻 Concentration (Major) : Computer Science
 - 💼 Secondary Field (Minor) : Economics
 - ✉️ chinilin@college.harvard.edu
-- 🗣️ English, Mandarin, Taiwanese, Spanish (conversational)
+- 🗣️ English, Mandarin, Taiwanese, Spanish
 - 🏸 Badminton, Swimming, Running, Workout
 - 📈 Venture Capital, Entrepreneurship, Investing
 
