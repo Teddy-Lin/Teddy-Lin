@@ -1,9 +1,9 @@
 ## Hi, thanks for stopping by! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/chini-teddy-lin/">
-  <img align="left" alt="Teddy's LinkedIN" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Teddy's LinkedIN" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/i5jyge6qfzggtnc4vs05k2u82?si=KhrJWB62QbChG4K45I9K5A&dl_branch=1">
-  <img align="left" alt="Teddy's Spotify" width="33px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Teddy's Spotify" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 <br />
@@ -13,10 +13,11 @@
 - 📚 Harvard University
 - 📅 Class of 2024 (currently a sophomore)
 - 📍 Cambridge, Massachusetts
-- ‍💻 Concentration (Major) : Computer Science. Secondary Field (Minor) : Economics.
+- ‍💻 Concentration (Major) : Computer Science
+- 💼 Secondary Field (Minor) : Economics
 - ✉️ chinilin@college.harvard.edu
-- 🗣️ English, Mandarin, Taiwanese, Spanish (conversational), French (beginner)
-- 🏸 Badminton, Swimming, Running, Workout.
+- 🗣️ English, Mandarin, Taiwanese, Spanish (conversational)
+- 🏸 Badminton, Swimming, Running, Workout
 - 📈 Venture Capital, Entrepreneurship, Investing
 
 <br />
@@ -35,5 +36,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
 <br />
