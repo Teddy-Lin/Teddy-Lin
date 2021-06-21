@@ -13,7 +13,7 @@
 - 📚 Harvard University
 - 📅 Class of 2024 (currently a sophomore)
 - 📍 Cambridge, Massachusetts
-- ‍💻 Concentration (Major) : Computer Science
+- 👨‍💻 Concentration (Major) : Computer Science
 - 💼 Secondary Field (Minor) : Economics
 - ✉️ chinilin@college.harvard.edu
 - 🖥️ Intership Experience: [HSA](https://www.hsa.net/), [Appier Inc](https://www.appier.com/)
