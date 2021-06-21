@@ -7,13 +7,6 @@
 </a>
 
 <br />
-<br />
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://open.spotify.com/user/i5jyge6qfzggtnc4vs05k2u82?si=KhrJWB62QbChG4K45I9K5A&dl_branch=1]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]["https://www.linkedin.com/in/chini-teddy-lin/"]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### I'm Teddy!
@@ -21,9 +14,10 @@
 - 📅 Class of 2024 (currently a sophomore)
 - 📍 Cambridge, Massachusetts
 - ‍💻 Concentration (Major) : Computer Science. Secondary Field (Minor) : Economics.
-- ✉️ [here](chinilin@college.harvard.edu)
+- ✉️ chinilin@college.harvard.edu
 - 🗣️ English, Mandarin, Taiwanese, Spanish (conversational), French (beginner)
-- ❤️ Badminton, Swimming, etc.
+- 🏸 Badminton, Swimming, Running, Workout.
+- 📈 Venture Capital, Entrepreneurship, Investing
 
 <br />
 
