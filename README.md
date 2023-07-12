@@ -1,26 +1,18 @@
 ## Hi, thanks for stopping by! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/chini-teddy-lin/">
-  <img align="left" alt="Teddy's LinkedIN" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/i5jyge6qfzggtnc4vs05k2u82?si=KhrJWB62QbChG4K45I9K5A&dl_branch=1">
-  <img align="left" alt="Teddy's Spotify" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### I'm Teddy!
 - 📚 Harvard University
-- 📅 Class of 2024 (currently a sophomore)
+- 📅 Class of 2024
 - 📍 Cambridge, Massachusetts
-- 👨‍💻 Concentration (Major) : Computer Science
-- 💼 Secondary Field (Minor) : Economics
+- 👨‍💻 Concentration: Computer Science
 - ✉️ chinilin@college.harvard.edu
-- 🖥️ Intership Experience: [HSA](https://www.hsa.net/), [Appier Inc](https://www.appier.com/)
+- 🖥️ Intership Experience: Microsoft, Appian
 - 🗣️ English, Mandarin, Taiwanese, Spanish
 - 🏸 Badminton, Swimming, Running, Workout
 - 📈 Venture Capital, Entrepreneurship, Investing
-
 
 ### Languages and Tools
 
