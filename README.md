@@ -8,7 +8,7 @@
 - 📧 chinilin@college.harvard.edu
 - 🖥️ intership @Microsoft @Appian
 - 🗣️ Mandarin, Taiwanese, Spanish, Japanese
-- 🏸 badminton, swimming, running, ping pong, hiking
+- 🏸 badminton, swimming, running, ping pong
 
 ### Languages and Tools
 
