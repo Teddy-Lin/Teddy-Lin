@@ -3,15 +3,13 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### I'm Teddy!
-- 📚 Harvard University
-- 📅 Class of 2024
-- 📍 Cambridge, Massachusetts
-- 👨‍💻 Concentration: Computer Science
-- ✉️ chinilin@college.harvard.edu
-- 🖥️ Intership Experience: Microsoft, Appian
-- 🗣️ English, Mandarin, Taiwanese, Spanish
-- 🏸 Badminton, Swimming, Running, Workout
-- 📈 Venture Capital, Entrepreneurship, Investing
+- 📚 Harvard Class of 2024
+- 📍 Cambridge MA
+- 👨‍💻 Computer Science
+- 📧 chinilin@college.harvard.edu
+- 🖥️ intership @Microsoft @Appian
+- 🗣️ Mandarin, Taiwanese, Spanish, Japanese
+- 🏸 badminton, swimming, running, ping pong, hiking
 
 ### Languages and Tools
 
