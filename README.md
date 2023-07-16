@@ -23,4 +23,5 @@
 <br>
 
 [Harvard Open Data Project - Crimson Mentions Analysis](https://www.hodp.org/project/who-gets-mentioned-in-the-crimson/)
+<br>
 [Richter's Predictor - Modeling 2015 Gorkha Earthquake in Nepal](https://docs.google.com/presentation/d/19W-lLmL2Lg8UB7Y8ctB-yNW-znjQY09R/edit?usp=sharing&ouid=111772512323924087414&rtpof=true&sd=true)
