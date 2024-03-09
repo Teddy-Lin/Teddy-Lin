@@ -17,7 +17,9 @@
 <br>
 <br>
 
-[Richter's Predictor - Modeling 2015 Gorkha Earthquake in Nepal](https://docs.google.com/presentation/d/19W-lLmL2Lg8UB7Y8ctB-yNW-znjQY09R/edit?usp=sharing&ouid=111772512323924087414&rtpof=true&sd=true)
+[Distributed Computing](https://drive.google.com/file/d/1wm2CL7ct5qC0D4SWXU8YmUKI66SBg4ph/view?usp=drive_link](https://drive.google.com/file/d/1KYth_tF1S6hgsRqrhvLypmrgrZbgPsy6/view?usp=sharing)https://drive.google.com/file/d/1KYth_tF1S6hgsRqrhvLypmrgrZbgPsy6/view?usp=sharing)
 <br>
-[Distributed Computing]([https://drive.google.com/file/d/1wm2CL7ct5qC0D4SWXU8YmUKI66SBg4ph/view?usp=drive_link](https://drive.google.com/file/d/1KYth_tF1S6hgsRqrhvLypmrgrZbgPsy6/view?usp=sharing)https://drive.google.com/file/d/1KYth_tF1S6hgsRqrhvLypmrgrZbgPsy6/view?usp=sharing)
+[Richter's Predictor - Modeling 2015 Gorkha Earthquake in Nepal](https://docs.google.com/presentation/d/19W-lLmL2Lg8UB7Y8ctB-yNW-znjQY09R/edit?usp=sharing&ouid=111772512323924087414&rtpof=true&sd=true)
+
+
 
