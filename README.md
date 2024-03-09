@@ -2,13 +2,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### I'm Teddy!
-- 📚 Harvard Class of 2024
-- 📍 Cambridge MA
-- 👨‍💻 Computer Science
-- 📧 chinilin@college.harvard.edu
-- 🖥️ intership @Microsoft @Appian
-- 🗣️ Mandarin, Taiwanese, Spanish, Japanese
-- 🏸 badminton, swimming, running, ping pong
+- 📚 Harvard CS
+- 📧 teddy.chinilin@gmail.com
 
 ### Languages and Tools
 
@@ -22,9 +17,7 @@
 <br>
 <br>
 
-[Harvard Open Data Project - Crimson Mentions Analysis](https://www.hodp.org/project/who-gets-mentioned-in-the-crimson/)
-<br>
 [Richter's Predictor - Modeling 2015 Gorkha Earthquake in Nepal](https://docs.google.com/presentation/d/19W-lLmL2Lg8UB7Y8ctB-yNW-znjQY09R/edit?usp=sharing&ouid=111772512323924087414&rtpof=true&sd=true)
 <br>
-[Cloud Computing Research](https://drive.google.com/file/d/1wm2CL7ct5qC0D4SWXU8YmUKI66SBg4ph/view?usp=drive_link)
+[Distributed Computing]([https://drive.google.com/file/d/1wm2CL7ct5qC0D4SWXU8YmUKI66SBg4ph/view?usp=drive_link](https://drive.google.com/file/d/1KYth_tF1S6hgsRqrhvLypmrgrZbgPsy6/view?usp=sharing)https://drive.google.com/file/d/1KYth_tF1S6hgsRqrhvLypmrgrZbgPsy6/view?usp=sharing)
 
